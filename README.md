@@ -12,7 +12,7 @@ In this project, you will prove your mastery of the following learning objective
 
 
 
-[!Important Guidlines links]
+###Important Guidlines links
 
 * [Selling CI/CD](Guidelines/0_selling_cicd.md)
 * [Getting Started](Guidelines/1-getting-started.md)
