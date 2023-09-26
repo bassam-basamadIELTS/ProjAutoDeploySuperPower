@@ -1,6 +1,6 @@
 
 # Selling CI/CD
-(../UdaPeople.png)
+![Udacity People](../udapeople.png)
 
 ## Section 1
 
