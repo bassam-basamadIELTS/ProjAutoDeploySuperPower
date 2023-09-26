@@ -14,11 +14,11 @@ In this project, you will prove your mastery of the following learning objective
 
 ### Important Guidlines links
 
-* [Selling CI/CD](Guidelines/0_selling_cicd.md)
-* [Getting Started](Guidelines/1-getting-started.md)
-* [Deploying Working, Trustworthy Software](Guidelines/2-deploying-trustworthy-code.md)
-* [Configuration Management](Guidelines/3-configuration-management.md)
-* [Turn Errors into Sirens](Guidelines/4-turn-errors-into-sirens.md)
+- [Selling CI/CD](Guidelines/0_selling_cicd.md)
+- [Getting Started](Guidelines/1-getting-started.md)
+- [Deploying Working, Trustworthy Software](Guidelines/2-deploying-trustworthy-code.md)
+- [Configuration Management](Guidelines/3-configuration-management.md)
+- [Turn Errors into Sirens](Guidelines/4-turn-errors-into-sirens.md)
 
 ### Screenshots 
 1) Working CI CD pipeline
